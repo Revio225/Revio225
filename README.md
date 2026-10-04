@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 An Information System Student
-- 🌱 Currently learning Java, SQL, & Visual Basic
+- 🌱 Interested in Design & UI/UX
 - 🎨 An Artist too! Find me on Insta @jyonkaa
 - ⚡ My Profile made by me!
 
